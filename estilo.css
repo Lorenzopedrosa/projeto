@@ -1,0 +1,48 @@
+#imagem{
+    text-align: center;
+    margin: 10px;    
+}
+
+body{
+    background-color: #1c1c1c;
+    color: white;
+    margin: 0;
+}
+
+
+#redes{
+        text-align: center;
+        background-color: black;
+    }
+    
+#footer{
+        text-align: center;
+    background-color: black;
+}
+    
+#palavras{
+    margin: 30px;
+    text-align: justify;
+}
+
+#menu ul{
+    margin: 0;
+    background-color: #1c1c1c;
+    list-style: none;
+    text-align: center;
+    }
+    
+    #menu ul li{
+        display: inline;
+    }
+    
+    #menu ul li a{
+        padding: 10px 10px;
+        display: inline-block;
+        color: White;
+        text-decoration: none;
+    }
+
+    #imagem2{
+        text-align: center;
+    }

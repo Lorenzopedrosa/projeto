@@ -1,0 +1,53 @@
+body{
+    background-color: #1c1c1c;
+    margin: 0;
+    color: white;
+}
+
+#imagem2{
+    text-align: center;
+}
+
+#imagem3{
+    margin: 10px;
+}
+
+#menu ul{
+margin: 0;
+background-color: #1c1c1c;
+list-style: none;
+text-align: center;
+}
+
+#menu ul li{
+    display: inline;
+}
+
+#menu ul li a{
+    padding: 10px 10px;
+    display: inline-block;
+    color: White;
+    text-decoration: none;
+}
+
+#redes{
+    text-align: center;
+    background-color: black;
+    margin: 0;
+}
+
+#footer{
+    text-align: center;
+background-color: black;
+}
+
+#palavras{
+    text-align: justify;
+    margin: 30px;
+}
+
+#container{
+    text-align: justify;
+    margin: 20px;
+}
+
