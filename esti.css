@@ -68,3 +68,11 @@ textarea{
 #imagem2{
     background-color: #1c1c1c;
 }
+
+@media screen and (min-widht: 480px) {
+.menu{
+    widht: 47%;
+    padding: 3%;
+    }
+
+}
