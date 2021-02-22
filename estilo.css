@@ -46,3 +46,11 @@ body{
     #imagem2{
         text-align: center;
     }
+
+@media screen and (min-widht: 480px) {
+.menu{
+    widht: 47%;
+    padding: 3%;
+    }
+
+}
